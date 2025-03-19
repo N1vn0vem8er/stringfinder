@@ -1,7 +1,5 @@
 # String Finder
 
-## Table of contents
-
 ## General info
 
 This is a cli tool for finding strings in files in specified directory.
